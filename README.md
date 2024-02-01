@@ -6,6 +6,7 @@
  <a href = "https://github.com/BhushanDS" target="_blank"> <img src = "http://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github"> </a> &nbsp;
  <a href = "https://www.linkedin.com/in/bhushanrane1992/" target="_blank"> <img src = "https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"> </a> &nbsp;
  <a href = "https://www.scaler.com/academy/profile/65c8c55a9d34/" target="_blank"> <img src = "https://img.shields.io/badge/-Scaler-2EC866?style=for-the-badge&logo=Scaler&logoColor=white"> </a> &nbsp;
+ <a href = "https://medium.com/@bhushanrane1992" target="_blank"> <img src = "https://img.shields.io/badge/-Medium-FFFF?style=for-the-badge&logo=Medium&logoColor=white"> </a> &nbsp;
  <a href = "mailto:bhushanrane1992@gmail.com" target="_blank"> <img src = "https://img.shields.io/badge/-Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white"> </a>
 </p>
 <hr>

@@ -17,10 +17,7 @@
 - Data Structures and Algorithms
 - Cloud Architecture
 - Design Patterns
-
-<!-- start statics fun section -->
-
-<summary><b> Git Statistics </b></summary>
+- Git Statistics
  
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=BhushanDS&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=EC7063&icon_color=D4AC0D&text_color=D3D3D3&bg_color=0,000000,AEB6BF" alt="Bhushan's Github Stats"> </p>
 

@@ -1,6 +1,9 @@
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=100&section=header"/> -->
 <h1 align="center">Hi There 😎, I'm Bhushan  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <h3 align="center">Senior Software Development Engineer</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+Software+Development+Engineer&font=Fira%20Code&center=true&width=500&height=45&color=blue&vCenter=true&size=22&pause=1000"></a>
+</p>
 <!-- https://www.linkedin.com/in/bhushanrane1992/ -->
 <p align="center">
  <a href = "https://github.com/BhushanDS" target="_blank"> <img src = "http://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github"> </a> &nbsp;
